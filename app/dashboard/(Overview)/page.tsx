@@ -10,8 +10,8 @@ import {
 } from "../../ui/skeletons";
 import CardWrapper from "@/app/ui/dashboard/cards";
 
+
 export default async function Page() {
-  
   
   return (
     <main>
